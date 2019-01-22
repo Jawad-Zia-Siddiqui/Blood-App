@@ -1,0 +1,21 @@
+body{
+    background-image: url('./page.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+}
+
+table{
+    border: 4px groove rgb(216, 214, 214);
+    background-color: rgb(241, 238, 238);
+    border-radius: 5px;
+    width: 90%;
+    margin-top: 10%;
+}
+
+
+table td, table th{
+    border: 1px solid #000;
+
+
+}

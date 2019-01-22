@@ -1,0 +1,26 @@
+body {
+    background-image: url(sisu.jpg);
+    height: 100vh;
+  }
+  #login .container #login-row #login-column .login-box {
+    margin-top: 90px;
+    max-width: 600px;
+    height: 350px;
+    border: 4px groove rgb(216, 214, 214);
+    background-color: rgb(241, 238, 238);
+    border-radius: 5px;
+    
+  }
+  #login .container #login-row #login-column .login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column .login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+
+  .text-info{
+    color: #ca3d3d !important;
+  }
+  .btn-info{
+    background-color: #ca3d3d;
+  }
